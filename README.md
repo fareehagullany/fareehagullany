@@ -2,7 +2,7 @@
 
 I'm Fareeha, a computer science student pursuing my BA in CS and my masters in Cybersecurity, all by 2028. 
 
-I currently work at my university as an office assistant. I'm the Director of Logistics for INIT, and I love to talk about tech and I'm looking forward to earning my seat at new tables. 
+📚 I currently work at my university as an office assistant. I'm the Director of Logistics for INIT, and I love to talk about tech and I'm looking forward to earning my seat at new tables. 
 
 🌱 I love learning new things: I'm currently working towards my COMPTIA security+ certification. 
 
